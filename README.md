@@ -32,7 +32,11 @@ pip install -r requirements.txt
 streamlit run bmi.py
 ```
 
-> Open your web browser and go to localhost:8501 to view and interact with the BMI calculator.
+> You will automaticall be directed to the webpage, OR click on one of the provided host addresses.
+
+<img width="394" alt="Screenshot 2024-06-15 at 12 56 22 PM" src="https://github.com/Diksha-Bisht/BMI_Calculator/assets/86365209/00cb3a2f-dc21-4fc2-969c-014b8f0627fd">
+
+
 
 # Application Details
 - Input: Enter your weight in kilograms and height in meters.
