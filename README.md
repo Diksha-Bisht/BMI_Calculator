@@ -1,2 +1,67 @@
-# BMI_Calculator
-It is a simple BMI Calculator made uing Python and Streamlit 
+# Simple BMI Calculator using Streamlit
+
+This is a simple BMI (Body Mass Index) calculator implemented with Streamlit, a web application framework for Python. It allows users to input their weight and height to calculate their BMI and provides feedback on their BMI category.
+
+## Usage
+
+### Requirements
+
+Make sure you have Python installed. You can install Streamlit and other dependencies using `pip`:
+
+```bash
+pip install streamlit
+```
+
+# How to Run
+Clone this repository:
+
+```bash
+git clone <repository_url>
+cd <repository_directory>
+```
+
+# Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+# Run the Streamlit app:
+
+```bash
+streamlit run bmi.py
+```
+
+> Open your web browser and go to localhost:8501 to view and interact with the BMI calculator.
+
+# Application Details
+- Input: Enter your weight in kilograms and height in meters.
+- Output: The BMI index is calculated based on the input values. It also provides a category indicating whether you are underweight, healthy, overweight, or obese.
+
+## Example
+
+Here is an example of how the BMI calculator looks and functions:
+
+### Input
+
+1. Enter your weight in kilograms
+
+2. Enter your height in meters
+  
+3. Click on Calculate BMI
+
+   <img width="620" alt="Screenshot 2024-06-15 at 12 49 34 PM" src="https://github.com/Diksha-Bisht/BMI_Calculator/assets/86365209/f2c1c7bd-3da2-4656-a36d-538f42ce72d4">
+
+### Output and Result
+
+4. View your BMI index and category:
+
+   <img width="622" alt="Screenshot 2024-06-15 at 12 49 54 PM" src="https://github.com/Diksha-Bisht/BMI_Calculator/assets/86365209/ce93463a-8ae5-4e69-be59-b912369a1b87">
+
+
+   
+
+   
+
+## Disclaimer
+This BMI calculator is for educational purposes only and should not substitute for professional medical advice. Consult a healthcare provider for personalized advice regarding your health.
